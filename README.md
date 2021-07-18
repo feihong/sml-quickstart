@@ -8,6 +8,10 @@ Then add `alias sml='rlwrap /usr/local/smlnj/bin/sml'` to your `~/.bash_profile`
 
 ## Commands
 
+Execute program:
+
+    sml hello.sml
+
 Execute program `hello.sml` before entering top-level loop:
 
     sml hello.sml
