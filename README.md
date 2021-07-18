@@ -23,6 +23,9 @@ Start REPL and load `hello.sml`:
 
 ## Links
 
+- [The Standard ML Basis Library - Top-level environment](https://smlfamily.github.io/Basis/top-level-chapter.html)
+- [The Standard ML Basis Library - Overview](https://smlfamily.github.io/Basis/overview.html)
+- [The SML of NJ Library](http://smlnj.org/doc/smlnj-lib/index.html)
 - [Standard ML in 2020](https://notes.eatonphil.com/standard-ml-in-2020.html)
 - [Standard ML of New Jersey Interactive System](http://smlnj.org/doc/interact.html)
 - [A Tour of Standard ML](https://saityi.github.io/sml-tour/tour/welcome)
