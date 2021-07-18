@@ -12,7 +12,7 @@ Execute program:
 
     sml hello.sml
 
-Execute program `hello.sml` before entering top-level loop:
+Execute program `hello.sml` and then enter top-level loop:
 
     sml hello.sml
 
@@ -31,4 +31,4 @@ Start REPL and load `hello.sml`:
 
 ## Notes
 
-MLton doesn't include a REPL. It's easier to play with implementations that have a REPL, such as SML/NJ or Poly/ML. Install of SML/NJ through Homebrew was 22 MB.
+MLton doesn't include a REPL, but it's better at creating standalone executables. It's easier to play with implementations that have a REPL, such as SML/NJ or Poly/ML. Install of SML/NJ through Homebrew was 22 MB.

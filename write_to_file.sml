@@ -1,4 +1,8 @@
-val filename = "test.txt"
-val outStr = TextIO.openOut filename
-val _ = TextIO.output (outStr, "foobar\n")
-val _ = TextIO.closeOut outStr
+val filename = "output.txt"
+val out = TextIO.openOut filename
+val contents = "最普通的內容！\n"
+val _ = (
+  TextIO.output (out, contents);
+  TextIO.closeOut out;
+  print ("Wrote text to " ^ filename ^ "\n")
+)
