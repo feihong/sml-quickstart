@@ -34,4 +34,6 @@ Start REPL and load `hello.sml`:
 
 ## Notes
 
-MLton doesn't include a REPL, but it's better at creating standalone executables. It's easier to play with implementations that have a REPL, such as SML/NJ or Poly/ML. Install of SML/NJ through Homebrew was 22 MB.
+MLton doesn't include a REPL, but it's better at creating standalone executables. It's easier to play with implementations that have a REPL, such as SML/NJ or Poly/ML. Poly/ML has a nicer REPL experience than SML/NJ, but it can't handle unicode strings and doesn't recognize or-patterns.
+
+Install of SML/NJ through Homebrew was 22 MB. Install of Poly/ML through Homebrew was 15 MB.
